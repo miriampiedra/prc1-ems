@@ -1,3 +1,5 @@
+[![Build and test of Java Project](https://github.com/miriampiedra/prc1-ems/actions/workflows/main.yml/badge.svg)](https://github.com/miriampiedra/prc1-ems/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
